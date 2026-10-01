@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "cafe-pipetua",
+    "name": "Café Pipetuá"
+  },
+  {
+    "slug": "lion-restaurante",
+    "name": "Lion Restaurante"
+  },
+  {
+    "slug": "estetica-san-juan",
+    "name": "Estética San Juan"
+  },
+  {
+    "slug": "session-haus",
+    "name": "Session Haus"
+  },
+  {
+    "slug": "gaia-pergamino",
+    "name": "GAIA Restaurante"
+  },
+  {
+    "slug": "praga-bar",
+    "name": "Praga Bar"
+  },
+  {
+    "slug": "espacio-arvo",
+    "name": "Espacio ARVO"
+  },
+  {
+    "slug": "passiflora",
+    "name": "Passiflora Café"
+  },
+  {
+    "slug": "la-esquina-del-choripan",
+    "name": "La Esquina del Choripán"
+  },
+  {
+    "slug": "tia-maria-home-bistro",
+    "name": "Tía María Home Bistró"
+  }
+]

@@ -1,0 +1,9 @@
+services:
+  demos:
+    build: .
+    expose:
+      - "8080"
+    restart: unless-stopped
+    read_only: true
+    tmpfs:
+      - /tmp
