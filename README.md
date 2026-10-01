@@ -50,3 +50,7 @@ Los conceptos no fueron encargados ni avalados por los negocios. Fotografías y 
 Passiflora: 40 registros de la carta enlazada por su perfil, consultada el 1/10/2026. El PDF fue modificado el 12/9/2026, sin fecha de vigencia impresa. Usa `$`; pesos argentinos es una inferencia explícita. Precios y disponibilidad pendientes de confirmación. Otros menús/agendas indican sus campos pendientes sin inventar información.
 
 `noindex` y `.nojekyll` no hacen privado un sitio. Todo lo que se publique aquí debe ser apto para acceso público.
+
+## Visuales de Passiflora
+
+Las 17 ilustraciones de bebidas, símbolos, flores y marca se extrajeron de la carta original enlazada por el negocio. La agrupación de infusiones calientes conserva los tres tamaños de taza. `docs/passiflora/assets/illustrations/SOURCE.json` registra la fuente y las condiciones de referencia. No se modificaron los 40 productos ni sus precios. `npm run check:passiflora` verifica la asociación de dibujos y evita conservar un icono viejo si cambian el nombre o los ingredientes. Los símbolos alimentarios reproducen la carta fuente y no garantizan ausencia de alérgenos.

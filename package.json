@@ -1,1 +1,10 @@
-{"name":"effency-demos","private":true,"type":"module","scripts":{"build":"node scripts/build-index.mjs","check":"node scripts/check.mjs"}}
+{
+  "name": "effency-demos",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-index.mjs",
+    "check": "node scripts/check.mjs",
+    "check:passiflora": "node scripts/check-passiflora.mjs"
+  }
+}
